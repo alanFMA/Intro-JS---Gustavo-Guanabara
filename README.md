@@ -1,2 +1,2 @@
-# Intro-JS---Gustavo-Guanabara
+# Intro-JS - Gustavo-Guanabara
 Introdução ao Javascript - Curso em Vídeo
